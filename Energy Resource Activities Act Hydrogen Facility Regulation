@@ -1,0 +1,822 @@
+Energy Resource Activities Act
+Hydrogen Facility Regulation
+Contents
+Part 1 — Interpretation and Application
+1	Interpretation
+2	Application
+3	Adopted codes and standards
+Part 2 — Notification
+4	Definitions for Part
+5	Prescribed applicant
+6	Notice — application for Class 2 hydrogen facility permit
+7	Notice — amendment to Class 2 hydrogen facility permit
+8	Notice — extension of Class 2 hydrogen facility permit
+9	Method of providing notice
+10	Report requirements
+Part 3 — Application for Hydrogen Facility Permit
+11	Application for hydrogen facility permit
+Part 4 — Hydrogen Facility General Requirements
+12	Hydrogen facility general requirements
+13	Integrity management program
+14	Fugitive emissions management plan
+15	Record drawings
+16	Process safety management system — Class 2 hydrogen facility
+17	Measures to minimize adverse effects — Class 2 hydrogen facility
+Part 5 — Operation of Hydrogen Facility
+Division 1 — Before Operation Begins
+18	Pre-operation testing
+19	Signs
+Division 2 — Operation
+20	Record drawings to regulator
+21	Maintaining safety
+22	Safety critical devices
+23	Attended and unattended hydrogen facilities
+24	Venting and flaring
+25	Electricity, feedstock, products and waste
+26	Security
+Division 3 — Emergency Management
+27	Emergency response plan
+28	Emergency response plan — Class 2 hydrogen facility
+29	Training plan
+30	Emergency first responders — Class 2 hydrogen facility
+31	Obligation to provide information — Class 2 hydrogen facility
+32	Safety of the public — Class 2 hydrogen facility
+33	Incident classification and management
+34	Emergency response and notification
+Division 4 — Management of Change
+35	Management of change — hydrogen facility
+36	Management of change — Class 2 hydrogen facility
+Part 6 — Suspension and Decommissioning of Hydrogen Facility
+37	Suspension of hydrogen facility
+38	Decommissioning of hydrogen facility
+39	Obligation when permit expires or is cancelled or spent
+Part 7 — General
+Division 1 — Requirement to Notify Regulator
+40	Requirement to notify regulator
+Division 2 — Records
+41	Construction, post-construction, maintenance and testing records
+42	Operating records
+43	Records of measures to minimize adverse effects — Class 2 hydrogen facility
+44	Suspension and decommissioning records
+45	Record retention program
+46	Prescribed records, reports and plans
+Division 3 — Exemptions
+47	Exemptions
+Division 4 — Transitional
+48	Transitional
+Schedule 1
+Schedule 2
+Part 1 — Interpretation and Application
+
+Interpretation
+1   (1)In this regulation:
+
+"Act" means the Energy Resource Activities Act;
+
+"Class 1 hydrogen facility" means a hydrogen facility in relation to which both of the following apply:
+
+(a)the maximum aggregate weight of hydrogen at the operating area of the facility is less than 4.5 tonnes;
+
+(b)the facility is not co-located with a facility for manufacturing ammonia or methanol from petroleum, natural gas, water or another substance;
+
+"Class 1 hydrogen facility permit" means a permit that includes permission to construct and operate a Class 1 hydrogen facility;
+
+"Class 2 hydrogen facility" means a hydrogen facility in relation to which all of the following apply:
+
+(a)the maximum aggregate weight of hydrogen at the operating area of the facility is equal to or greater than 4.5 tonnes;
+
+(b)the maximum manufacturing capacity of the facility is less than 100 000 tonnes of hydrogen per year;
+
+(c)the facility is not co-located with a facility for manufacturing ammonia or methanol from petroleum, natural gas, water or another substance;
+
+"Class 2 hydrogen facility permit" means a permit that includes permission to construct and operate a Class 2 hydrogen facility;
+
+"Class 2 hydrogen facility permit holder" means a person who holds a Class 2 hydrogen facility permit;
+
+"codes and standards" means the codes and standards adopted under section 3 [adopted codes and standards] that apply in the context;
+
+"construction" includes assembly;
+
+"decommission" has the meaning given to it in section 39 (1) [decommissioning of hydrogen facility];
+
+"emergency" means an incident classified in accordance with section 33 [incident classification and management] as a level 1, 2 or 3 incident that requires action by a permit holder to protect persons, property or the environment;
+
+"emergency planning zone", in relation to a hydrogen facility, means a geographical area that encompasses all the hazard planning zones for the facility;
+
+"hazard" means a condition that poses a material threat to life, health, property or the environment;
+
+"hazard planning distance" means a hazard planning distance within the meaning of subsection (2);
+
+"hazard planning zone" means a geographical area
+
+(a)determined by using the hazard planning distance as a radius, and
+
+(b)within which persons, property or the environment may be affected by an emergency;
+
+"hazardous product" has the same meaning as in section 1.1 [definitions] of the Occupational Health and Safety Regulation;
+
+"hydrogen facility" means a facility that manufactures hydrogen;
+
+"hydrogen facility permit holder" means a person who holds a Class 1 hydrogen facility permit or a Class 2 hydrogen facility permit;
+
+"incident" means an incident described in column 1 of the table in Schedule 2;
+
+"local authority" means a municipality or a regional district;
+
+"local Indigenous nation", in relation to a hazard planning zone, means an Indigenous nation that is identified for the hazard planning zone in a manner specified by the regulator;
+
+"qualified professional", in relation to a matter, means an individual who
+
+(a)is registered with a regulatory body as defined in section 1 (1) [definitions and interpretation] of the Professional Governance Act, and
+
+(b)through suitable education, experience, accreditation and knowledge, may reasonably be relied on to provide advice within the individual's area of expertise as it relates to the matter;
+
+"qualified professional of record", in relation to a matter, means the qualified professional who has accepted professional responsibility for the matter;
+
+"safety critical devices", means equipment, instrumentation, controls or systems at a hydrogen facility
+
+(a)that, on malfunction, would cause or contribute substantially to the release of hazardous material or energy, or
+
+(b)that must operate properly to mitigate the adverse effects of a release of hazardous material or energy.
+
+(2)For the purposes of this regulation, a hazard planning distance, in relation to a hazard at a hydrogen facility, is the greater of the following horizontal distances measured from the facility:
+
+(a)a distance recommended for the hazard in an assessment conducted by a qualified professional;
+
+(b)a distance determined for the hazard using a table, software application or other resource evaluated and approved by a qualified professional.
+
+Application
+2  This regulation does not apply in relation to a Class 3 hydrogen facility as defined in section 1 [definitions] of the Processing Facility Regulation.
+
+Adopted codes and standards
+3   (1)In this section:
+
+"API" means the American Petroleum Institute;
+
+"CSA" means the CSA Group;
+
+"NFPA" means the National Fire Protection Association.
+
+(2)Subject to this section, the following codes and standards, as amended from time to time, are adopted for the purposes of this regulation:
+
+(a)API Standard 570, Piping Inspection Code: In-service Inspection, Rating, Repair, and Alteration of Piping Systems;
+
+(b)CSA Standard Z767, Process safety management;
+
+(c)CAN/BNQ 1784-000, Canadian Hydrogen Installation Code, published by the Bureau de normalisation du Quebec;
+
+(d)NFPA 2, Hydrogen Technologies Code.
+
+(3)The standard referred to in subsection (2) (b) is adopted only in relation to a Class 2 hydrogen facility.
+
+(4)A hydrogen facility permit holder must design, construct and operate the hydrogen facility that is the subject of the permit in compliance with the code referred to in subsection (2) (c) or the code referred to in subsection (2) (d).
+
+Part 2 — Notification
+
+Definitions for Part
+4  In this Part:
+
+"affected person", in relation to an impact referred to in section 6 (1) (a), 7 (1) (a) and 8 (1) (a), means a person, including the Government of Canada and an agent of the Government of Canada, that would reasonably be expected to be affected by the impact;
+
+"notice date", in relation to a notice provided to a local authority or an affected person under this Part, means
+
+(a)in the case of a written notice provided to a local authority or an affected person by a method of service set out in section 79 (1) [how to serve documents and notices] of the Act, the date on which the local authority or affected person is deemed, under section 79 (2) of the Act, to have received the notice,
+
+(b)in the case of a written notice provided to a local authority or an affected person by a method of service set out in section 2 [prescribed methods of service] of the Service Regulation, the date on which the local authority or affected person is deemed, under section 2 (2) of that regulation, to have received the notice, and
+
+(c)in the case of a notice provided to an affected person by a method set out in section 9 (2) (b) of this regulation, the date on which the notice is provided by that method.
+
+Prescribed applicant
+5  For the purposes of section 22 (1) [consultation and notification] of the Act, persons who intend to submit an application under section 24 [application for permit and authorization] of the Act for a Class 2 hydrogen facility permit are prescribed as a class.
+
+Notice — application for Class 2 hydrogen facility permit
+6   (1)For the purposes of section 22 (3) of the Act, a person who intends to submit an application under section 24 of the Act for a Class 2 hydrogen facility permit must, before submitting the application, do the following:
+
+(a)assess the likely nature, geographic area and timing of the impacts that would reasonably be expected to occur outside the proposed operating area of the permit at each phase of the proposed hydrogen facility;
+
+(b)provide notice of the likely nature, geographic area and timing of the impacts referred to in paragraph (a) to
+
+(i)the local authority in which the proposed hydrogen facility is to be located, and
+
+(ii)affected persons.
+
+(2)A notice under subsection (1) (b) must include the following:
+
+(a)a description of the proposed hydrogen facility project;
+
+(b)a clear summary of the likely nature, geographic area and timing of the impacts referred to in subsection (1) (a);
+
+(c)the business name and business contact information of the person providing the notice;
+
+(d)the street address of the proposed facility, or if there is no street address, the legal description of the land on which the proposed facility is to be located;
+
+(e)a statement that the recipient may, within 30 days of the notice date, submit a written response to the person providing the notice stating whether the recipient has any concerns with the proposed facility, and, if so, the reasons for those concerns;
+
+(f)a statement that the recipient may make a submission to the regulator under section 22 (5) of the Act.
+
+(3)A person that, after providing notice under subsection (1) (b) but before submitting an application under section 24 of the Act, revises the proposed Class 2 hydrogen facility project in a manner described in subsection (4), must
+
+(a)assess the likely nature, geographic area and timing of the impacts that would reasonably be expected to occur outside the proposed operating area of the permit at each phase of the proposed hydrogen facility as revised;
+
+(b)provide notice of the revision and of the likely nature, geographic area or timing of the impacts referred to in paragraph (a) to
+
+(i)the local authority in which the proposed facility is to be located, and
+
+(ii)affected persons.
+
+(4)Subsection (3) applies if a person revises the proposed Class 2 hydrogen facility project in either or both of the following manners:
+
+(a)by changing the proposed operating area of the permit by increasing the area by one hectare or more or shifting the area by 100 metres or more;
+
+(b)by adding the installation of any new major equipment that may significantly increase the impacts referred to in subsection (3) (a).
+
+(5)A notice under subsection (3) must include the information set out in subsection (2).
+
+Notice — amendment to Class 2 hydrogen facility permit
+7   (1)For the purposes of section 31 (5) [amendment of permit] of the Act, an applicant for an amendment to a Class 2 hydrogen facility permit under section 31 (4) of the Act must, if required by the regulator,
+
+(a)assess the likely nature, geographic area and timing of the impacts that would reasonably be expected to occur outside the operating area or proposed operating area of the permit as a result of the amendment, and
+
+(b)provide notice of the likely nature, geographic area and timing of the impacts referred to in paragraph (a) to
+
+(i)the local authority in which the proposed hydrogen facility is to be located, and
+
+(ii)affected persons.
+
+(2)A notice under subsection (1) (b) must include the following:
+
+(a)a description of the hydrogen facility and the proposed amendments;
+
+(b)a clear summary of the likely nature, geographic area and timing of the impacts referred to in subsection (1) (a);
+
+(c)the applicant's business name and business contact information;
+
+(d)the street address of the facility, or if there is no street address, the legal description of the land on which the facility is located;
+
+(e)a statement that the recipient may, within 30 days of the notice date, submit a written response to the applicant stating whether the recipient has any concerns with the amendment, and, if so, the reasons for those concerns;
+
+(f)a statement that the recipient may make a submission to the regulator under section 31 (2) of the Act.
+
+(3)If required by the regulator, section 6 (3) to (5) applies, with necessary modifications, to an applicant referred to in subsection (1).
+
+Notice — extension of Class 2 hydrogen facility permit
+8   (1)For the purposes of section 32 (3) [expiration of permit and authorizations] of the Act, an applicant for an extension of a Class 2 hydrogen facility permit under section 32 (2) of the Act must, if required by the regulator,
+
+(a)assess the likely nature, geographic area and timing of the impacts that would reasonably be expected to occur outside the operating area of the permit as a result of the extension, and
+
+(b)provide notice of the likely nature, geographic area and timing of the impacts referred to in paragraph (a) to
+
+(i)the local authority in which the operating area of the permit is located, and
+
+(ii)affected persons.
+
+(2)A notice under subsection (1) (b) must include the following:
+
+(a)a description of the hydrogen facility and details of the proposed extension;
+
+(b)a clear summary of the likely nature, geographic area and timing of the impacts referred to in subsection (1) (a);
+
+(c)the applicant's business name and business contact information;
+
+(d)the street address of the facility, or if there is no street address, the legal description of the land on which the facility is located;
+
+(e)a statement that the recipient may, within 30 days of the notice date, submit a written response to the applicant stating whether the recipient has any concerns with the extension, and, if so, the reasons for those concerns;
+
+(f)a statement that the recipient may make a submission to the regulator under section 31 (2) of the Act.
+
+(3)If required by the regulator, section 6 (3) to (5) applies, with necessary modifications, to an applicant referred to in subsection (1).
+
+Method of providing notice
+9   (1)A notice under this Part must be provided to a local authority by written notice in accordance with a method of service set out in section 79 (1) [how to serve documents and notices] of the Act or section 2 [prescribed methods of service] of the Service Regulation.
+
+(2)A notice under this Part must be provided to an affected person
+
+(a)by written notice in accordance with a method of service set out in section 79 (1) of the Act or section 2 of the Service Regulation, or
+
+(b)by one of the following methods, if the method would be reasonably expected to bring the notice to the attention of the affected person:
+
+(i)posting a clearly visible sign at the operating area of the proposed hydrogen facility;
+
+(ii)holding a public meeting;
+
+(iii)publishing the notice on a publicly available website;
+
+(iv)publishing the notice in a newspaper;
+
+(v)providing the notice in a manner approved by the regulator.
+
+Report requirements
+10   (1)A written report of an applicant required under section 24 (1) (c) [application for permit and authorization], 31 (6) [amendment of permit] or 32 (4) [expiration of permit and authorizations] of the Act in relation to a Class 2 hydrogen facility must include the following:
+
+(a)identification of, or a description of, the persons to which notice was provided under section 6 (1) (b) or (3), 7 (1) (b) or (3) or 8 (1) (b) or (3) of this regulation;
+
+(b)the description of the proposed hydrogen facility project, amendment or extension included in the notice;
+
+(c)the summary of the likely nature, geographic area and timing of impacts included in the notice;
+
+(d)the method by which notice was provided and the rationale for the use of this method;
+
+(e)any comments received from the persons and bodies to which notice was provided;
+
+(f)a response to any comments referred to in paragraph (e), including details respecting how the comments were accommodated or considered.
+
+(2)After receiving a report referred to in subsection (1), the regulator may require the applicant to provide a notice required under this Part
+
+(a)to additional persons, or
+
+(b)by an additional method set out in section 9 (2) (b) (i) to (v).
+
+Part 3 — Application for Hydrogen Facility Permit
+
+Application for hydrogen facility permit
+11   (1)An applicant for a Class 1 hydrogen facility permit or a Class 2 hydrogen facility permit must submit to the regulator an application that includes all of the following information and records respecting the proposed hydrogen facility:
+
+(a)a detailed project description;
+
+(b)a construction schedule;
+
+(c)a statement by the qualified professional of record, in the form and manner required by the regulator, that
+
+(i)identifies the code referred to in section 3 (2) (c) or (d) [adopted codes and standards] that the preliminary design of the proposed facility complies with,
+
+(ii)specifies any proposed deviations from the identified code for which an exemption under section 47 is sought,
+
+(iii)declares that the preliminary design documents, and the hazard identification studies and risk assessment studies, were completed in accordance with professional standards established under section 57 (1) of the Professional Governance Act by the Association of Professional Engineers and Geoscientists of the Province of British Columbia,
+
+(iv)specifies the studies completed, any recommendations made as a result of the studies and whether the preliminary design incorporates the recommendations, and
+
+(v)subject to section 3 (3) of this regulation and any exemption referred to in subparagraph (ii), declares that the preliminary design complies with the code identified in subparagraph (i), other codes and standards and applicable regulations.
+
+(2)In addition to the information and records required under subsection (1), an applicant for a Class 2 hydrogen facility permit must submit to the regulator the following information and records respecting the proposed hydrogen facility:
+
+(a)the preliminary design documents required by the regulator, signed and sealed by a qualified professional;
+
+(b)a report of a qualified professional, in the form and manner required by the regulator, respecting the studies referred to in subsection (1) (c) (iii);
+
+(c)a report of a qualified professional, in the form and manner required by the regulator, respecting the assessment of the potential effects of the proposed facility on the environment during construction, testing, normal and abnormal operation, upsets, suspension and decommissioning of the facility;
+
+(d)if the report under paragraph (c) identifies potential adverse effects, a report of the qualified professional, in the form and manner required by the regulator, respecting measures required to minimize the potential adverse effects of the proposed facility on the environment during construction, testing, normal and abnormal operation, upsets, suspension and decommissioning of the facility.
+
+Part 4 — Hydrogen Facility General Requirements
+
+Hydrogen facility general requirements
+12   (1)Subject to section 3 (3) and any exemption granted under section 47, a hydrogen facility permit holder must ensure that the design, siting, construction, operation, suspension and decommissioning of the hydrogen facility
+
+(a)are consistent with the information and records given to the regulator under section 11,
+
+(b)comply with the codes and standards, and
+
+(c)are consistent with generally accepted good engineering practices.
+
+(2)A hydrogen facility permit holder must ensure that the hydrogen facility is constructed and operated
+
+(a)in accordance with the design, and
+
+(b)without causing excessive noise or light.
+
+Integrity management program
+13   (1)A hydrogen facility permit holder must develop, implement and maintain an integrity management program that specifies the practices used to ensure the safe, environmentally responsible and reliable operation of the hydrogen facility.
+
+(2)The integrity management program must address all activities respecting the design, construction, operation, suspension and decommissioning of the hydrogen facility.
+
+Fugitive emissions management plan
+14  A hydrogen facility permit holder must develop, implement and maintain a fugitive emissions management plan that details the process and procedures to detect, control and respond to unintentional releases of gases or vapour to the atmosphere from the hydrogen facility.
+
+Record drawings
+15  A hydrogen facility permit holder must maintain up-to-date detailed record drawings of the hydrogen facility that
+
+(a)include piping and instrumentation diagrams, electrical line diagrams, plot plans and a list of all safety critical devices, and
+
+(b)are signed and sealed by a qualified professional.
+
+Process safety management system — Class 2 hydrogen facility
+16   (1)A Class 2 hydrogen facility permit holder must develop, implement and maintain a process safety management system that complies with the requirements of the standard referred to in section 3 (2) (b) [adopted codes and standards].
+
+(2)The process safety management system must address all activities respecting the design, construction, operation, suspension and decommissioning of the hydrogen facility.
+
+Measures to minimize adverse effects — Class 2 hydrogen facility
+17  A Class 2 hydrogen facility permit holder must implement any measures to minimize the potential adverse effects of the hydrogen facility on the environment that are included in a report referred to in section 11 (2) (d).
+
+Part 5 — Operation of Hydrogen Facility
+
+Division 1 — Before Operation Begins
+
+Pre-operation testing
+18  Before operation of any part of a hydrogen facility begins, the hydrogen facility permit holder must do all of the following:
+
+(a)inspect and test
+
+(i)components and systems in accordance with the design and the requirements of the codes and standards,
+
+(ii)control devices and systems and safety critical devices to verify that the devices and systems are operating in accordance with the design, and
+
+(iii)fire suppression systems, if any;
+
+(b)conduct leak tests of equipment and piping systems;
+
+(c)conduct any other inspections or tests reasonably necessary to ensure that the facility is safe to operate;
+
+(d)submit to the regulator a statement by the qualified professional of record, in the form and manner required by the regulator, that
+
+(i)the facility was designed, constructed, inspected and tested in compliance with the codes and standards and applicable regulations, and
+
+(ii)all equipment at the facility has been verified to be safe for operation.
+
+Signs
+19  Before operation of any part of a hydrogen facility begins, the hydrogen facility permit holder must conspicuously post, along the boundary of the facility operating area, signs clearly setting out the following information:
+
+(a)the name of the permit holder;
+
+(b)emergency notification information, including a telephone number;
+
+(c)the street address of the facility, or if there is no street address, the legal description of the land on which the facility is located.
+
+Division 2 — Operation
+
+Record drawings to regulator
+20  A hydrogen facility permit holder must give the record drawings required under section 15 to the regulator within 3 months after the permit holder
+
+(a)begins to operate the hydrogen facility, or
+
+(b)makes modifications to the facility under an amendment to the permit.
+
+Maintaining safety
+21   (1)A hydrogen facility permit holder must develop, implement and maintain work procedures for all tasks that present a hazard to ensure that the tasks can be carried out in support of safe, reliable and environmentally responsible operation of the hydrogen facility.
+
+(2)A hydrogen facility permit holder must maintain the hydrogen facility in a condition that is safe and minimizes hazards.
+
+(3)A hydrogen facility permit holder must ensure that the hydrogen facility is equipped with warning, alarm and emergency shut down systems.
+
+Safety critical devices
+22   (1)A hydrogen facility permit holder must not bypass or disable the function of a safety critical device unless
+
+(a)the purpose of the bypass or disablement is to carry out maintenance or commissioning of the facility,
+
+(b)the facility is continuously monitored,
+
+(c)the permit holder has established and documented work procedures sufficient to ensure that the operation can be conducted safely, and
+
+(d)the operation is conducted in accordance with those procedures.
+
+(2)Subject to subsection (1), a hydrogen facility permit holder must lock or car seal any valve or device that can bypass or disable the function of a safety critical device.
+
+(3)If containment or process control is lost or compromised, the hydrogen facility permit holder must ensure that all actions necessary to rectify the situation are taken as soon as practicable.
+
+Attended and unattended hydrogen facilities
+23   (1)Subject to subsection (2), a hydrogen facility permit holder must ensure that the hydrogen facility is not operated unless the facility is continuously attended and monitored.
+
+(2)A hydrogen facility may operate while unattended if the following requirements are met:
+
+(a)the facility is fully automated;
+
+(b)the facility is equipped with
+
+(i)remote facility monitoring systems, and
+
+(ii)a system for automatic notification of a potential incident to a person who has had appropriate training, as required under section 29, in relation to the emergency response plan developed under section 27 (1) and, if applicable, section 28.
+
+Venting and flaring
+24   (1)A hydrogen facility permit holder must not vent gas from the hydrogen facility unless the gas heating value, volume or flow rate is insufficient to support stable combustion.
+
+(2)A hydrogen facility permit holder must not flare gas from the hydrogen facility unless permission to flare is included in the hydrogen facility permit.
+
+(3)If venting or flaring occurs, a hydrogen facility permit holder must
+
+(a)minimize the quantity of vented or flared gas and the duration of venting or flaring, and
+
+(b)ensure that emissions from vents or flares do not cause
+
+(i)a material threat to life or health,
+
+(ii)off-site odours, or
+
+(iii)injury to vegetation or wildlife.
+
+(4)A hydrogen facility permit holder must ensure that ignitable vent stacks and flares are sited so that the thermal radiation flux at the locations identified in column 1 of the applicable table in Schedule 1 does not exceed the maximum thermal radiation flux identified opposite those locations in column 2 of that table.
+
+Electricity, feedstock, products and waste
+25   (1)A hydrogen facility permit holder must determine
+
+(a)the quantity of electricity used at the hydrogen facility in the manufacture of hydrogen,
+
+(b)the quantity and composition of feedstock consumed and products manufactured at the facility, and
+
+(c)the quantity of waste generated by the facility.
+
+(2)A hydrogen facility permit holder must ensure that
+
+(a)the methods used to determine quantities and composition for the purposes of subsection (1) are suitable for those purposes, and
+
+(b)measurement equipment used for the purposes of subsection (1) is
+
+(i)suitable for its purpose,
+
+(ii)calibrated properly and maintained in good operating condition, and
+
+(iii)safe from adverse weather and interference by unauthorized persons.
+
+Security
+26   (1)A hydrogen facility permit holder must assess the risks to
+
+(a)the physical security of the hydrogen facility, including risks of unauthorized access to the facility operating area or to buildings, equipment and utilities or records, and
+
+(b)the security of facility control and monitoring systems.
+
+(2)A hydrogen facility permit holder must implement security measures to protect the physical security of the hydrogen facility and the security of facility control and monitoring systems.
+
+Division 3 — Emergency Management
+
+Emergency response plan
+27   (1)A hydrogen facility permit holder must develop and maintain an emergency response plan that includes the following:
+
+(a)a description of the hydrogen facility and the operational activities that are the subject of the plan;
+
+(b)a description of the hazards and risks within each hazard planning zone arising from the operational activities;
+
+(c)a description of the hazardous products consumed, manufactured, generated or stored at the facility;
+
+(d)emergency response roles and responsibilities;
+
+(e)emergency response procedures;
+
+(f)emergency notification information, including a telephone number.
+
+(2)A hydrogen facility permit holder must review and, if necessary, update the information included in an emergency response plan
+
+(a)at least once a year,
+
+(b)if the site-specific hazards and risks of the hydrogen facility change significantly, and
+
+(c)at any time the permit holder becomes aware of a deficiency in the plan that risks the safety of emergency response staff, the permit holder's employees, or the public.
+
+(3)A hydrogen facility permit holder must
+
+(a)establish and maintain a liaison with the local authority responsible for emergency response to the facility, and
+
+(b)consult with the local authority in developing and updating its emergency response plan.
+
+Emergency response plan — Class 2 hydrogen facility
+28  In addition to the matters set out in section 27 (1), the emergency response plan for a Class 2 hydrogen facility permit holder must include
+
+(a)emergency procedures and guidelines, and
+
+(b)processes for the preservation of evidence.
+
+Training plan
+29  A hydrogen facility permit holder must
+
+(a)develop, implement and maintain a training plan that takes into account the matters referred to in section 27 (1) and, if applicable, section 28, and
+
+(b)before assigning emergency response responsibilities to a person under the plan, ensure that the person has appropriate training in relation to the person's roles and responsibilities.
+
+Emergency first responders — Class 2 hydrogen facility
+30  A Class 2 hydrogen facility permit holder must
+
+(a)identify the third-party emergency responders likely to respond to an emergency at the hydrogen facility, and
+
+(b)provide the third-party emergency responders
+
+(i)the street address of the facility, or if there is no street address, the legal description of the land on which the facility is located,
+
+(ii)the description of hazards and risks referred to in section 27 (1) (b) [emergency response plan], and
+
+(iii)the description of hazardous products referred to in section 27 (1) (c).
+
+Obligation to provide information — Class 2 hydrogen facility
+31   (1)A Class 2 hydrogen facility permit holder must give the information set out in subsection (2) to the following:
+
+(a)a local authority, if any part of the emergency planning zone is located within the boundary of the local authority's territory;
+
+(b)the local Indigenous nations, if any, for the hazard planning zones within the emergency planning zone.
+
+(2)The information given under subsection (1) must include
+
+(a)the name and contact information of the Class 2 hydrogen facility permit holder,
+
+(b)the street address of the hydrogen facility, or if there is no street address, the legal description of the land on which the facility is located,
+
+(c)the description of hazards and risks referred to in section 27 (1) (b), and
+
+(d)the description of hazardous products referred to in section 27 (1) (c).
+
+Safety of the public — Class 2 hydrogen facility
+32  A Class 2 hydrogen facility permit holder must work with local authorities referred to in section 31 (1) (a) to establish, coordinate and maintain a process to protect the safety of members of the public who may be affected by an emergency.
+
+Incident classification and management
+33  Immediately after a hydrogen facility permit holder becomes aware of an incident, the permit holder must classify the incident according to the event or consequence and probability of escalation or control in the Incident Classification Matrix in Schedule 2 that most closely describes the most severe event or consequence of the incident.
+
+Emergency response and notification
+34   (1)When an emergency occurs, a hydrogen facility permit holder must immediately respond to the emergency in accordance with the emergency response plan developed under section 27 (1) and, if applicable, section 28.
+
+(2)A Class 2 hydrogen facility permit holder must notify the local Indigenous nations, if any, for the hazard planning zones affected by an emergency as soon as possible when the emergency occurs, after the permit holder has taken any immediate actions necessary
+
+(a)for public safety, or
+
+(b)to minimize immediate environmental impacts.
+
+Division 4 — Management of Change
+
+Management of change — hydrogen facility
+35   (1)A hydrogen facility permit holder must, before making a change to the hydrogen facility design, ensure that a qualified professional conducts a hazard identification study and risk assessment respecting the proposed change.
+
+(2)The hydrogen facility permit holder must, if the qualified professional is of the opinion that hazard or risk reduction measures are required, implement the measures.
+
+Management of change — Class 2 hydrogen facility
+36   (1)A Class 2 hydrogen facility permit holder must, before making a change to the hydrogen facility design, ensure that a qualified professional conducts an assessment of the potential effects of the proposed change on the environment.
+
+(2)The Class 2 hydrogen facility permit holder must, if the qualified professional is of the opinion that measures are required to minimize the potential adverse effects of the proposed change on the environment, implement the measures.
+
+Part 6 — Suspension and Decommissioning of Hydrogen Facility
+
+Suspension of hydrogen facility
+37   (1)A hydrogen facility permit holder that does not operate the hydrogen facility or a part of the hydrogen facility for a period of at least 12 consecutive months must implement a suspension plan prepared by a qualified professional.
+
+(2)The suspension plan must be implemented before the expiry of the 12-month period.
+
+Decommissioning of hydrogen facility
+38   (1)A hydrogen facility or a part of a hydrogen facility is decommissioned for the purposes of this regulation when the hydrogen facility permit holder removes from the facility operating area all facilities and other equipment that are associated with
+
+(a)an energy resource activity carried out at the facility or part of the facility that is permitted by the permit, and
+
+(b)a related activity of an energy resource activity referred to in paragraph (a).
+
+(2)A hydrogen facility permit holder must ensure that the decommissioning of a hydrogen facility or part of a hydrogen facility is carried out in accordance with a decommissioning plan prepared by a qualified professional.
+
+Obligation when permit expires or is cancelled or spent
+39  The removal of the hydrogen facility from the facility operating area is prescribed with respect to a hydrogen facility permit for the purposes of section 40 (e) [obligations when permit, permission or authorization expires or is cancelled or spent] of the Act.
+
+Part 7 — General
+
+Division 1 — Requirement to Notify Regulator
+
+Requirement to notify regulator
+40  A hydrogen facility permit holder must notify the regulator as follows:
+
+(a)at least 2 days before beginning construction of the hydrogen facility;
+
+(b)at least 14 days before operation of any part of the facility;
+
+(c)at least 24 hours before putting new or modified equipment into service;
+
+(d)at least 24 hours before beginning a planned shutdown of the facility or part of the facility;
+
+(e)within 24 hours of an unplanned shutdown of the facility or part of the facility;
+
+(f)at least 5 days before operations resume after a suspension of the facility or a part of the facility;
+
+(g)at least 60 days before beginning the decommissioning process and on completing the decommissioning process;
+
+(h)within one hour of becoming aware of an emergency;
+
+(i)within 24 hours of becoming aware of an incident classified in accordance with section 33 as a minor incident.
+
+Division 2 — Records
+
+Construction, post-construction, maintenance and testing records
+41  A hydrogen facility permit holder must keep records as follows:
+
+(a)construction, post-construction and maintenance records demonstrating compliance with the hydrogen facility design;
+
+(b)records of pre-operation testing required under section 18 [pre-operation testing].
+
+Operating records
+42  A hydrogen facility permit holder must keep operating records as follows:
+
+(a)records demonstrating compliance with the integrity management program required under section 13 [integrity management program];
+
+(b)records demonstrating compliance with the fugitive emissions management plan required under section 14 [fugitive emissions management plan], including the detection method used, the results obtained, and the corrective action plan, if applicable;
+
+(c)records of the quantity and composition of vented materials and flared materials;
+
+(d)records of the quantity of electricity used, the quantity and composition of feedstock consumed and products manufactured and the quantity of waste generated, at the hydrogen facility and the methods used under section 25 (1) [electricity, feedstock, products and waste] to determine the quantities and composition;
+
+(e)records of hazard identification studies, risk assessments and hazard or risk reduction measures required under section 35 [management of change — hydrogen facility];
+
+(f)records of incidents.
+
+Records of measures to minimize adverse effects — Class 2 hydrogen facility
+43  A Class 2 hydrogen facility permit holder must keep records as follows:
+
+(a)records of measures to minimize the potential adverse effects of the hydrogen facility on the environment required under section 17 [measures to minimize adverse effects — Class 2 hydrogen facility];
+
+(b)records of measures to minimize the potential adverse effects of a proposed change to the facility on the environment required under section 36 [management of change — Class 2 hydrogen facility].
+
+Suspension and decommissioning records
+44  A hydrogen facility permit holder must keep suspension and decommissioning records as follows:
+
+(a)records detailing the implementation of a suspension plan required under section 37 [suspension of hydrogen facility];
+
+(b)records detailing the implementation of a decommissioning plan required under section 39 (2) [decommissioning of hydrogen facility].
+
+Record retention program
+45  A hydrogen facility permit holder must have a record retention program in which all records required under a provision referred to in column 1 of the following table are retained for at least the period or until the occurrence of the event referred to in column 2 opposite the provision:
+
+Item	Column 1
+Records	Column 2
+Retention
+1	section 15 [record drawings]	The hydrogen facility is removed from the facility operating area
+2	section 41 [construction, postconstruction, maintenance and testing records]	The equipment is removed from the facility operating area
+3	section 42 (a) [operating records — integrity management program]	The equipment is removed from the facility operating area
+4	section 42 (b), (c) and (d) [operating records]	6 years after the record is made
+5	section 42 (e) [operating records — management of change]	The hydrogen facility is removed from the facility operating area
+6	section 42 (f) [operating records — incidents]	If there is an incident investigation: one year after the investigation is closed If there is no incident investigation: 30 days after the incident end
+7	section 43 [records of measures to minimize adverse effects — Class 2 hydrogen facility]	3 years after the hydrogen facility is removed from the facility operating area
+8	section 44 [suspension and decommissioning records]	3 years after the hydrogen facility is removed from the facility operating area
+Prescribed records, reports and plans
+46  The records, reports and plans required under this regulation are prescribed for the purposes of section 38 [records, reports and plans] of the Act.
+
+Division 3 — Exemptions
+
+Exemptions
+47   (1)This section applies in relation to
+
+(a)section 3, and
+
+(b)Parts 4 to 7, other than sections 39 and 48.
+
+(2)An official may exempt an applicant for a hydrogen facility permit or a hydrogen facility permit holder from complying with one or more provisions of this regulation if the official is satisfied that, in the circumstances,
+
+(a)compliance with the provision is not reasonably practicable, or
+
+(b)the exemption is in the public interest.
+
+(3)In granting an exemption under subsection (1), an official may impose any conditions on the exemption the official considers necessary.
+
+Division 4 — Transitional
+
+Transitional
+48   (1)This regulation does not apply to a person that, immediately before the coming into force of this regulation, is a permit holder.
+
+(2)This section is repealed on September 30, 2025.
+
+Schedule 1
+
+Definitions
+1  In this Schedule:
+
+"boundary", in relation to a hydrogen facility, means the boundary at which access to the facility operating area is controlled, under the security measures required under section 26 (2) [security] of the regulation;
+
+"critical area" means an unshielded area of critical importance from which it is difficult or dangerous to evacuate people on short notice;
+
+"remote area" means an area where people are, generally, present infrequently and in small numbers;
+
+"sterile area" means an area in which there is no vegetation growth or combustible materials.
+
+Determining thermal radiation flux
+2  For the purposes of determining the allowable thermal radiation flux,
+
+(a)solar radiation must be excluded,
+
+(b)the normal flow rate is the flow rate that results from all operating modes within the hydrogen facility design intent, and
+
+(c)the accidental flow rate is the highest flow rate that
+
+(i)results from an uncontrolled or unplanned event, and
+
+(ii)is the sum of the combined flow rates from all possible uncontrolled or unplanned scenarios that may occur simultaneously.
+
+Table 1
+Allowable Thermal Radiation Flux Inside the Boundary
+
+Column 1
+Location Inside Boundary	Column 2
+Maximum Thermal Radiation Flux (kW/m2)
+Normal Flow Rate	Accidental Flow Rate
+Within the sterile area	5	9
+Outer edges of the sterile area	N/A	5
+Roads and open areas	3	5
+Storage tanks and process equipment	1.5	5
+Control rooms, maintenance workshops, laboratories, warehouses and other occupied structures within the hydrogen facility	1.5	5
+Table 2
+Allowable Thermal Radiation Flux Outside the Boundary
+
+Column 1
+Location Outside Boundary	Column 2
+Maximum Thermal Radiation Flux (kW/m2)
+Normal Flow Rate	Accidental Flow Rate
+Remote area	3	5
+Critical area	1.5	1.5
+Other areas	1.5	3
+Schedule 2
+
+Incident Classification Matrix
+
+The classification of an incident is determined for each event or consequence in the following matrix by identifying the probability of escalation or control of the event or consequence.
+
+Item	Column 1
+Incident (event or consequence)	Column 2
+Probability of escalation or control
+Uncontrolled	Escalation possible	Escalation unlikely	Escalation highly unlikely	Will not escalate (no hazard; no monitoring required)
+1	• Major on-site equipment or infrastructure loss
+• Persistent and malicious equipment damage or tampering
+• Liquid spill or gas release beyond site, affecting persons, property or the environment	Level 3 incident	Level 3 incident	Level 2 incident	Level 2 incident	Level 1 incident
+2	• Major on-site equipment failure
+• Malicious equipment damage or tampering
+• Liquid spill or gas release beyond site, potentially affecting persons, property or the environment	Level 3 incident	Level 2 incident	Level 2 incident	Level 1 incident	Level 1 incident
+3	• Major on-site equipment damage
+• Persistent / multiple minor vandalism or security incidents
+• Liquid spill or gas release on site or potentially beyond site, not affecting persons, property or the environment	Level 2 incident	Level 2 incident	Level 1 incident	Level 1 incident	Minor incident
+4	• Moderate on-site equipment damage
+• Minor vandalism or facility security incident
+• Liquid spill or gas release confined to site	Level 2 incident	Level 1 incident	Level 1 incident	Minor incident	Minor incident
+[Provisions relevant to the enactment of this regulation: Energy Resource Activities Act, S.B.C. 2008, c. 36, ss. 106, 107, 108, 111 and 112.]
